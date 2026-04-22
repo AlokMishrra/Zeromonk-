@@ -1,0 +1,16 @@
+{
+  "name": "zeromonk-website",
+  "version": "1.0.0",
+  "description": "Zeromonk University Knowledge Partner Network Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": ["zeromonk", "university", "education", "knowledge-partner"],
+  "author": "Zeromonk",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
